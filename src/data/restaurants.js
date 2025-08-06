@@ -24,7 +24,7 @@ export const restaurants = [
     name: 'La Dolce Vita Trattoria',
     category: 'Italiana',
     rating: 4.6,
-    description: '',
+    description: 'A La Dolce Vita Trattoria leva a autêntica cozinha italiana até você! Desfrute de massas caseiras, pizzas e risotos incríveis, tudo no conforto do seu lar. Entrega rápida, pratos bem embalados e sabor inesquecível. Peça já!',
     cover: '/images/macarrão.png',
   },
   {
@@ -32,7 +32,7 @@ export const restaurants = [
     name: 'La Dolce Vita Trattoria',
     category: 'Italiana',
     rating: 4.6,
-    description: '',
+    description: 'A La Dolce Vita Trattoria leva a autêntica cozinha italiana até você! Desfrute de massas caseiras, pizzas e risotos incríveis, tudo no conforto do seu lar. Entrega rápida, pratos bem embalados e sabor inesquecível. Peça já!',
     cover: '/images/macarrão.png',
   },
   {
@@ -40,7 +40,7 @@ export const restaurants = [
     name: 'La Dolce Vita Trattoria',
     category: 'Italiana',
     rating: 4.6,
-    description: '',
+    description: 'A La Dolce Vita Trattoria leva a autêntica cozinha italiana até você! Desfrute de massas caseiras, pizzas e risotos incríveis, tudo no conforto do seu lar. Entrega rápida, pratos bem embalados e sabor inesquecível. Peça já!',
     cover: '/images/macarrão.png',
   },
   {
@@ -48,7 +48,7 @@ export const restaurants = [
     name: 'La Dolce Vita Trattoria',
     category: 'Italiana',
     rating: 4.6,
-    description: '',
+    description: 'A La Dolce Vita Trattoria leva a autêntica cozinha italiana até você! Desfrute de massas caseiras, pizzas e risotos incríveis, tudo no conforto do seu lar. Entrega rápida, pratos bem embalados e sabor inesquecível. Peça já!',
     cover: '/images/macarrão.png',
   },
 ];
